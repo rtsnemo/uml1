@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1637092254 source:c:\users\maxpo\uml_projects\uml1\basedata.cpp
+	"BaseData.h"
+
+1637092210 c:\users\maxpo\uml_projects\uml1\basedata.h
+	<cstdio>
+
+1637092210 source:c:\users\maxpo\uml_projects\uml1\basedata.h
+	<cstdio>
+
+1637095462 source:c:\users\maxpo\uml_projects\uml1\doubledata.cpp
+	"DoubleData.h"
+	<iostream>
+
+1637095499 c:\users\maxpo\uml_projects\uml1\doubledata.h
+	"BaseData.h"
+
+1637095126 source:c:\users\maxpo\uml_projects\uml1\doubledata.h
+	"BaseData.h"
+
+1637095529 source:c:\users\maxpo\uml_projects\uml1\intdata.h
+	"BaseData.h"
+
+1637095433 source:c:\users\maxpo\uml_projects\uml1\test_data.cpp
+	"IntData.h"
+	"DoubleData.h"
+
+1637095529 c:\users\maxpo\uml_projects\uml1\intdata.h
+	"BaseData.h"
+
+1637095521 source:c:\users\maxpo\uml_projects\uml1\intdata.cpp
+	"IntData.h"
+	<iostream>
+
